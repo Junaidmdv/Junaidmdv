@@ -11,7 +11,7 @@ I am passionate about building scalable backend systems with **Go**, modern web 
 ## 🛠 **Tech Stack & Tools**
 
 **Languages:**
-Go · Python · JavaScript · C · C++ · Java
+Go  · C · Java
 
 **Backend & Frameworks:**
 Gin · Gorilla Mux · gRPC · REST APIs · Microservices
