@@ -28,10 +28,12 @@ Docker · Kubernetes · AWS · Linux · Git · CI/CD
 ---
 
 ## 📈 **GitHub Insights**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidmdv&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidmdv&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmdv&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidmdv&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmdv&layout=compact&theme=radical&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=junaidmdv&theme=radical)
+
 
 ---
 
