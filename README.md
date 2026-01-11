@@ -14,7 +14,7 @@ I am passionate about building scalable backend systems with **Go**, modern web 
 Go  · C · Java
 
 **Backend & Frameworks:**
-Gin · Gorilla Mux · gRPC · REST APIs · Microservices
+Gin · Gorilla Mux · gRPC · REST APIs · Microservices · Fiber 
 
 **Database & Storage:**
 PostgreSQL · MySQL · Redis
@@ -23,7 +23,7 @@ PostgreSQL · MySQL · Redis
 Docker · Kubernetes · AWS · Linux · Git · CI/CD
 
 **Message Brokers & Streaming:**
-Kafka · RabbitMQ
+· RabbitMQ
 
 ---
 
@@ -37,7 +37,9 @@ Kafka · RabbitMQ
 
 ## 🔗 **Connect With Me**
 📧 Email: **juni313@gmail.com**
-🔗 LinkedIn: *(Coming Soon)*
+🔗 LinkedIn: *www.linkedin.com/in/
+muhammad-zunaid
+*
 
 ---
 
