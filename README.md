@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Muhammad Zunaid B M**
+# Hi 👋 I'm **Zunaid **
 
 ### 🚀 **Go Backend Developer | Cloud Engineering Enthusiast**
 
@@ -37,9 +37,7 @@ Docker · Kubernetes · AWS · Linux · Git · CI/CD
 
 ## 🔗 **Connect With Me**
 📧 Email: **juni313@gmail.com**
-🔗 LinkedIn: *www.linkedin.com/in/
-muhammad-zunaid
-*
+  🔗 LinkedIn: *www.linkedin.com/in/muhammad-zunaid*
 
 ---
 
